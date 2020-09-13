@@ -1,8 +1,5 @@
 # Face-mask-detection---CNN-Imagenet
 Detecting face mask with CNN architecture and transfer learning with Imagnet
 
-<video width="320" height="240" autoplay>
-  <source src="facemask-video.mp4" type="video/mp4">
-  
-  </video>
+![facemask-video](https://user-images.githubusercontent.com/36509713/93018118-16fcb000-f5eb-11ea-93b6-aed4ddc31fba.gif)
 
